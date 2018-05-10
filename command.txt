@@ -1,0 +1,2 @@
+查找文件并copy到另一个路径
+find -name libblkid.so.1 |xargs -i cp {} /data/tmp
