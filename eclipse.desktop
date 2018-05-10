@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Eclipse
+Comment=Eclipse
+Exec=/opt/jvm/eclipse/eclipse
+Icon=/opt/jvm/eclipse/icon.xpm
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Development;IDE;Java;
